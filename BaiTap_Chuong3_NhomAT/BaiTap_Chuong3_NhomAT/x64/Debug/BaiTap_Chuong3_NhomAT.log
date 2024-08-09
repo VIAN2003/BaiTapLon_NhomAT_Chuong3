@@ -1,0 +1,5 @@
+﻿  BaiTap_Chuong3_24.cpp
+C:\Users\quyen\OneDrive\Desktop\Thư mục mới\Chuong3\BaiTap_Chuong3_24.cpp(67,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\quyen\OneDrive\Desktop\Thư mục mới\Chuong3\BaiTap_Chuong3_24.cpp(68,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\quyen\OneDrive\Desktop\Thư mục mới\Chuong3\BaiTap_Chuong3_24.cpp(84,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BaiTap_Chuong3_NhomAT.vcxproj -> C:\Users\quyen\OneDrive\Desktop\BaiTap_Chuong3_NhomAT\x64\Debug\BaiTap_Chuong3_NhomAT.exe

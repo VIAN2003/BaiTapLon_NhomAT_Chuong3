@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quyen\\OneDrive\\Desktop\\BaiTap_Chuong3_NhomAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B150A43-C61C-45F0-8534-DC4FAB203587}|BaiTap_Chuong3_NhomAT\\BaiTap_Chuong3_NhomAT.vcxproj|C:\\Users\\quyen\\OneDrive\\Desktop\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Chuong3\\BaiTap_Chuong3_24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiTap_Chuong3_24.cpp",
+              "DocumentMoniker": "C:\\Users\\quyen\\OneDrive\\Desktop\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Chuong3\\BaiTap_Chuong3_24.cpp",
+              "RelativeDocumentMoniker": "..\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Chuong3\\BaiTap_Chuong3_24.cpp",
+              "ToolTip": "C:\\Users\\quyen\\OneDrive\\Desktop\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Chuong3\\BaiTap_Chuong3_24.cpp",
+              "RelativeToolTip": "..\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Chuong3\\BaiTap_Chuong3_24.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T16:17:55.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
